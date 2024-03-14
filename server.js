@@ -6,7 +6,7 @@ app.use(express.json());
 
 app.get('/', (req, res)=>{
 
-    res.send('ja sei criar e subir o servidor sozinho graças a deus!!!');
+    res.send('');
 
 })
 
